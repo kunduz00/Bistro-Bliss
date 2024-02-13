@@ -1,0 +1,16 @@
+  .book_.page_tit{
+	margin-bottom: 24px;
+  }
+  .book_.page_desc{
+	margin-bottom: 72px;
+	max-width: 545px;
+	margin: 0 auto 72px;
+  }
+  .form_in{
+    padding: 42px 49px;
+    background: #fff;
+    border-radius: 16px;
+    max-width: 812px;
+    margin: 0 auto;
+    box-shadow: 0 3px 60px   ;
+  }
